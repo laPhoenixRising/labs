@@ -1,0 +1,27 @@
+.wrapper {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 100px 100px;
+    gap: 10px;
+}
+.wrapper > div {
+    padding: 1em;
+} 
+.box1 {
+    background-color: aqua;
+}  
+.box2 {
+    background-color: chartreuse;
+}
+.box3 {
+    background-color: coral;
+}
+.box4 {
+    background-color: aqua;
+}
+.box5 {
+    background-color: chartreuse;
+}
+.box6 {
+    background-color: coral;
+}
