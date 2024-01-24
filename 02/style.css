@@ -1,6 +1,9 @@
 .wrapper {
     display: flex;
   }
+.wrapper > div {
+  flex: 1;
+} 
 .box1 {
   padding: 1em;
   background-color: aqua;
