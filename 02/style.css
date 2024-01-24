@@ -1,0 +1,15 @@
+.wrapper {
+    display: flex;
+  }
+.box1 {
+  padding: 1em;
+  background-color: aqua;
+}  
+.box2 {
+  padding: 1em;
+  background-color: chartreuse;
+}
+.box3 {
+  padding: 1em;
+  background-color: coral;
+}
